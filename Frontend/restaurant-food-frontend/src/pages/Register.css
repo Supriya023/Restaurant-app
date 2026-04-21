@@ -1,0 +1,35 @@
+.register {
+  width: 400px;
+  margin: 60px auto;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  background: #fff;
+  text-align: center;
+}
+
+.register form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.register input {
+  padding: 12px;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+}
+
+.register button {
+  background: #28a745;
+  border: none;
+  padding: 12px;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.register a {
+  color: #ff4d4d;
+  text-decoration: none;
+}

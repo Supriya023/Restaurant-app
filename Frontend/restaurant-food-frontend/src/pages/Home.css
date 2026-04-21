@@ -1,0 +1,59 @@
+.home {
+  text-align: center;
+}
+
+.banner {
+  background: url("https://source.unsplash.com/1600x500/?food") no-repeat center center/cover;
+  color: white;
+  padding: 100px 20px;
+  border-radius: 10px;
+}
+
+.banner h1 {
+  font-size: 50px;
+  margin-bottom: 10px;
+}
+
+.banner p {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.banner button {
+  padding: 12px 24px;
+  font-size: 18px;
+  background: #ff4d4d;
+  border: none;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.categories {
+  margin: 50px 20px;
+}
+
+.categories h2 {
+  margin-bottom: 20px;
+}
+
+.category-list {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.category-card {
+  background: #fff;
+  padding: 20px 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  font-size: 20px;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.category-card:hover {
+  transform: scale(1.05);
+}
