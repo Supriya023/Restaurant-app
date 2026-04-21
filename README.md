@@ -4,12 +4,12 @@ A full-stack web application that allows users to browse restaurants, explore me
 
 🚀 Features
 
-* 🔐 User Authentication (Login / Signup)
-* 🍕 Browse Restaurants and Menus
-* 🛒 Add to Cart & Place Orders
-* 📦 Order Management System
-* ⚡ Fast and responsive UI
-* 🔗 Backend API integration
+*  User Authentication (Login / Signup)
+*  Browse Restaurants and Menus
+*  Add to Cart & Place Orders
+*  Order Management System
+*  Fast and responsive UI
+*  Backend API integration
 
   🛠️ Tech Stack
 
